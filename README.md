@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Untitleddev
-- 👀 I’m interested in game dev
-- 🌱 I’m currently learning programming
-- 💞️ Working on Champions Dominion
+- 👀 I’m interested in: game design
+- 🌱 I’m currently learning: to program
+- 💞️ Working on: TBA
 - 📫 How to reach me: N/A
